@@ -20,3 +20,4 @@ set service dhcp-server shared-network-name LAN subnet 192.168.1.0/24 start 192.
 set service dhcp-server shared-network-name LAN subnet 192.168.1.0/24 default-router 192.168.1.1
 set service dhcp-server shared-network-name LAN subnet 192.168.1.0/24 dns-server 8.8.8.8
 commit ; save
+

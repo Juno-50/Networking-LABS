@@ -26,7 +26,7 @@ Implement VLANs to separate Sales and IT departments for security and performanc
 ### Rollback Plan
 `delete interfaces ethernet eth0 vif 10`  
 `delete interfaces ethernet eth0 vif 20`  
-`commit && save`
+`commit & save`
 
 ### Result
 Change completed successfully. Sales and IT are now segmented with full inter-VLAN communication.

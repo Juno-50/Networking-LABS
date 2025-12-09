@@ -4,7 +4,9 @@
 **Objective:** Implement VLAN segmentation with inter-VLAN routing using VyOS router-on-a-stick topology.
 
 ## Topology
-![topology](topology.png)
+![Topology](topology.png)
+![Inter-VLAN Ping](Ping-InterVLAN.png)
+![802.1Q Tags in Wireshark](wireshark-802.1Q.png)
 
 ## VyOS Configuration (Router-HQ)
 ```bash

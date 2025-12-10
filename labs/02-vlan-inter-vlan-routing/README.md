@@ -5,8 +5,7 @@
 
 ## Topology
 ![Topology](topology.png)
-![Inter-VLAN Ping](Ping-InterVLAN.png)
-![802.1Q Tags in Wireshark](wireshark-802.1Q.png)
+
 
 ## VyOS Configuration (Router-HQ)
 ```bash
